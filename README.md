@@ -7,6 +7,8 @@
 ### 中文问题
 ----
 matplotlib.pyplot.rcParams['font.sans-serif']=['SimHei']
+
+----
 matplotlib.pyplot.rcParams['axes.unicode_minus']=False
 
 -----
